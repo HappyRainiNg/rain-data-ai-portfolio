@@ -17,6 +17,7 @@ I use this portfolio to record small but practical projects, including Pandas an
 | Task | Project | Topic | Status |
 |---|---|---|---|
 | Task 001 | [Eat Well Sales Summary](./task-001-eatwell-sales-summary) | Pandas, Matplotlib, Business Analytics | Completed |
+| Task 002 | [Pandas Cleaning Practice](./task-002-pandas-cleaning-practice) | Pandas, Data Cleaning, Feature Engineering | Completed |
 
 ## Tools I Am Learning
 
