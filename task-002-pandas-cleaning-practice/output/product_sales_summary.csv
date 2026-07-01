@@ -1,0 +1,7 @@
+product,total_quantity_kg,total_sales_hkd,avg_unit_price_hkd,order_count
+crab,8.4,1999.2,238.0,3
+lobster,4.5,1746.0,388.0,3
+oyster,5.5,264.0,48.0,3
+salmon,9.8,1254.4,128.0,4
+scallop,14.3,1401.4,98.0,3
+shrimp,24.5,4116.0,168.0,4
