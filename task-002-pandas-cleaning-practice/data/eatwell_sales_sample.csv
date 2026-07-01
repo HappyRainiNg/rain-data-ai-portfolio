@@ -1,0 +1,21 @@
+order_id,order_date,customer_type,product,category,quantity_kg,unit_price_hkd,district,payment_method
+E001,2026-06-01,Retail, salmon ,Fish,2.5,128,Central, cash
+E002,2026-06-01,Wholesale,Shrimp,Shellfish,5,168,Mong Kok, fps
+E003,2026-06-02,Retail,CRAB,Shellfish,3.2,238,Sha Tin, card
+E004,2026-06-03,Retail,oyster,Shellfish,1.5,48,Tuen Mun,cash
+E005,2026-06-04,Wholesale, scallop ,Shellfish,4,98,Kwun Tong,FPS
+E006,2026-06-05,Retail,Lobster,Shellfish,1.8,388,Kowloon City,card
+E007,2026-06-06,Retail,salmon,Fish,2,128,Fo Tan,cash
+E008,2026-06-07,Wholesale,shrimp,Shellfish,6,168,Central,fps
+E009,2026-06-08,Retail, crab ,Shellfish,2.7,238,Mong Kok,CARD
+E010,2026-06-09,Retail,Oyster,Shellfish,2.2,48,Sha Tin,cash
+E011,2026-06-10,Wholesale,Scallop,Shellfish,5.5,98,Tuen Mun,fps
+E012,2026-06-11,Retail,lobster,Shellfish,1.2,388,Kwun Tong,card
+E013,2026-06-12,Retail,Salmon,Fish,3,128,Kowloon City,CASH
+E014,2026-06-13,Wholesale, shrimp ,Shellfish,7,168,Fo Tan,FPS
+E015,2026-06-14,Retail,Crab,Shellfish,2.5,238,Central,card
+E016,2026-06-15,Retail,oyster,Shellfish,1.8,48,Mong Kok,cash
+E017,2026-06-16,Wholesale,scallop,Shellfish,4.8,98,Sha Tin,fps
+E018,2026-06-17,Retail,Lobster,Shellfish,1.5,388,Tuen Mun,CARD
+E019,2026-06-18,Retail, salmon,Fish,2.3,128,Kwun Tong,cash
+E020,2026-06-19,Wholesale,SHRIMP,Shellfish,6.5,168,Kowloon City,fps
