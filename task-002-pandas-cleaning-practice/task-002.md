@@ -4,25 +4,11 @@ Date: 2026-07-01
 
 ## Goal
 
-This task is a simple pandas data cleaning practice using mock seafood sales data for Eat Well.
-
-The goal is to build a small portfolio artifact that shows how to:
-
-- read a CSV file
-- inspect missing values
-- clean text columns
-- convert dates
-- calculate sales amount
-- create summary tables
-- export cleaned summary results
+Practice using Python pandas to clean and summarize a small seafood sales dataset.
 
 ## Dataset
 
-The sample dataset is stored in:
-
-`data/eatwell_sales_sample.csv`
-
-Main columns:
+This task uses a mock Eat Well seafood sales dataset with columns such as:
 
 - order_id
 - order_date
@@ -34,32 +20,29 @@ Main columns:
 - district
 - payment_method
 
-## Cleaning Steps
+## Steps
 
-The notebook will clean:
-
-- product names
-- district names
-- payment method format
-- order date format
-
-It will also create:
-
-- month
-- sales_amount_hkd
+1. Load the CSV file using pandas.
+2. Inspect the dataset using `head()`, `info()`, `describe()`, `isna().sum()`, and `duplicated().sum()`.
+3. Clean text columns such as product, district, and payment method.
+4. Convert order dates to datetime format.
+5. Create new columns:
+   - month
+   - sales_amount_hkd
+6. Build summary tables by:
+   - product
+   - month
+   - district
+7. Export cleaned summary tables to CSV files.
+8. Create a bar chart showing total sales by product.
 
 ## Outputs
 
-The main output file is:
+- `outputs/product_sales_summary.csv`
+- `outputs/monthly_sales_summary.csv`
+- `outputs/district_sales_summary.csv`
+- `outputs/total_sales_by_product.png`
 
-`outputs/product_sales_summary.csv`
+## Key Learning
 
-Additional possible outputs:
-
-- monthly_sales_summary.csv
-- district_sales_summary.csv
-- total_sales_by_product.png
-
-## What I Practiced
-
-In this task, I practiced using pandas for basic data cleaning, grouping, aggregation, and exporting results.
+This task helped me practice basic data cleaning, feature engineering, groupby aggregation, and exporting analysis results using pandas.
